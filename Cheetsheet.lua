@@ -8,6 +8,9 @@ a1,a2 = a2,a1
 
 print(a1,a2)
 
+-- Booleasn
+
+t, f = true, false
 
 -- 関数
 
